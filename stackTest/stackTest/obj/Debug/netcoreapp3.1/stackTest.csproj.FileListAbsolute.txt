@@ -1,0 +1,13 @@
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\bin\Debug\netcoreapp3.1\stackTest.exe
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\bin\Debug\netcoreapp3.1\stackTest.deps.json
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\bin\Debug\netcoreapp3.1\stackTest.runtimeconfig.json
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\bin\Debug\netcoreapp3.1\stackTest.runtimeconfig.dev.json
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\bin\Debug\netcoreapp3.1\stackTest.dll
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\bin\Debug\netcoreapp3.1\stackTest.pdb
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\obj\Debug\netcoreapp3.1\stackTest.csprojAssemblyReference.cache
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\obj\Debug\netcoreapp3.1\stackTest.AssemblyInfoInputs.cache
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\obj\Debug\netcoreapp3.1\stackTest.AssemblyInfo.cs
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\obj\Debug\netcoreapp3.1\stackTest.csproj.CoreCompileInputs.cache
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\obj\Debug\netcoreapp3.1\stackTest.dll
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\obj\Debug\netcoreapp3.1\stackTest.pdb
+C:\Users\FERCAMPOS\source\repos\stackTest\stackTest\obj\Debug\netcoreapp3.1\stackTest.genruntimeconfig.cache
